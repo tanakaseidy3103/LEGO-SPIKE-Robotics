@@ -1,3 +1,19 @@
+## Robot Gallery / ロボットの写真
+
+### Robot and Track / ロボットと走行コース
+
+![LEGO SPIKE Robot](images/lego2.png)
+
+### Robot Details / ロボットの詳細
+
+![Robot Detail](images/lego1.png)
+
+### Line Following / ライントレース
+
+![Robot Following the Line](images/lego3.png)
+
+---
+
 # LEGO SPIKE Prime — Line Following Robot
 
 **Sensor-Based Autonomous Navigation & Bluetooth Telemetry**
